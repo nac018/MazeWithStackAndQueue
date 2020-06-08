@@ -1,15 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: Deque12.java
- * 
- * This is a generic class that implements BoundedDeque class.
- * It includes all the add, remove and peek both front and back methods.
- * It also throws necessary exceptions.
- */
-
 package hw4;
 
 import java.util.*;
