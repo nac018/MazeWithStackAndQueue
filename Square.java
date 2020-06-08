@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: Square.java
- * 
- * This is a class that designs the squares of the maze.
- */
 package hw4;
 
 public class Square {
