@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MyQueue.java
- * 
- * This is a generic class that implements BoundedQueue class. 
- * It includes all the dequeue, enqueue and peek methods. 
- */
-
 package hw4;
 
 public class MyQueue<E> implements BoundedQueue<E> {
