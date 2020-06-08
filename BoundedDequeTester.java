@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: BoundedDequeTester.java
- * 
- * This is a JUnit test for Deque12 which implements BoundedDeque. 
- */
 package hw4;
 
 import java.util.*;
