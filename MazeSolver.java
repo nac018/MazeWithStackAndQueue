@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MazeSolver.java
- * 
- * This is a class that designs to solve the maze.
- */
 package hw4;
 
 import java.util.ArrayList;
