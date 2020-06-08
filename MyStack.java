@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MyStack.java
- * 
- * This is a generic class that implements BoundedStack class. 
- * It includes all the push, pop and peek methods. 
- */
-
 package hw4;
 
 import java.util.*;
