@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MazeTest.java
- * 
- * This is a class that tests the Maze class.
- */
 package hw4;
 
 import java.io.File;
