@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MazeSolverQueue.java
- * 
- * This is a class that solves the maze with a queue.
- */
 package hw4;
 
 public class MazeSolverQueue extends MazeSolver {
