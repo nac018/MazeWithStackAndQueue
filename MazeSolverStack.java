@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 04/28/2017
- * File: MazeSolverStack.java
- * 
- * This is a class that solves the maze with a stack.
- */
 package hw4;
 
 public class MazeSolverStack extends MazeSolver {
